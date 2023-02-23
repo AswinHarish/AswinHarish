@@ -4,11 +4,11 @@
  I'm Aswin, a passionate developer from India.
 
 <h3 align="left">Connect with me on:</h3>
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css)](https://skillicons.dev)
+
 
 <h3 align="left">Languages:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,discord,html,css)](https://skillicons.dev)
 <br>
 <br>
 
