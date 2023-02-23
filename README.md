@@ -5,9 +5,12 @@
 
 <h3 align="left">Connect with me on:</h3>
 <a href="https://discordapp.com/users/929700063595348009">
-<img width="45px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" alt="">
+<img width="45px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" alt="discord">
 </a>
 
+<a href="https://twitter.com/aswinharish_">
+<img width="45px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" alt="twitter">
+</a>
 
 <br>
 <br><br>
