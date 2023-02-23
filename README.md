@@ -37,11 +37,15 @@
     <img width="45px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"
         alt="git">
 </a>
+&nbsp;
+<a href="https://code.visualstudio.com/">
+    <img width="43px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg"
+        alt="linkedin">
+</a>
+
 
 <br>
 <br>
-
-
 <a href="https://github.com/AswinHarish/">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=AswinHarish&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/>  
 </a>
