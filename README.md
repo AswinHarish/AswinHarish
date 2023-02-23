@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<p align="center"> 
+  Visitor count<br>
+  <a href="https://ra1nbow.xyz?ref=github">
+    <img src="https://profile-counter.glitch.me/ra1nbow1/count.svg" />
+  </a>
+</p>
