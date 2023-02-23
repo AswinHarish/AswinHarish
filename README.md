@@ -77,7 +77,6 @@
     <img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"
         alt="git">
 </a>
-
 &nbsp;
 <a href="https://www.linux.org/">
     <img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg"
