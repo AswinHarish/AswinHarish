@@ -13,7 +13,7 @@
 
 <h3 align="left">Languages:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css)](https://google.com)
 <br>
 <br>
 
