@@ -4,7 +4,7 @@
  I'm Aswin, a passionate developer from India.
 
 <h3 align="left">Connect with me on:</h3>
-[![My Socials](https://skills.thijs.gg/icons?i=discord,html,css,wasm)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=python,discord,html,css)](https://skillicons.dev)
 
 <h3 align="left">Languages:</h3>
 
