@@ -69,6 +69,11 @@
     <img width="45px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg"
         alt="linux">
 </a>
+&nbsp;
+<a href="https://www.w3schools.com/css/">
+    <img width="45px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYuJT_fLFTCA7Gi86WsKDU13RONZjWUhNnEw&usqp=CAU"
+        alt="css" style="border-radius: 10px;">
+</a>
 
 <br>
 <br>
