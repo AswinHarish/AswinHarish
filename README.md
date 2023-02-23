@@ -11,6 +11,11 @@
 <a href="https://twitter.com/aswinharish_">
 <img width="45px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" alt="twitter">
 </a>
+&nbsp;
+<a href="https://www.linkedin.com/in/aswin-harish-179b371a5/">
+<img width="45px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="linkedin">
+</a>
+
 
 <br>
 <br><br>
