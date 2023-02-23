@@ -3,7 +3,16 @@
 
  I'm **Aswin**, a passionate developer from India.
  <br>
+<h3 align="left">Interests</h3>
+<ul>
+    <li>AI</li>
+    <li>Web3</li>
+    <li>Python</li>
+    <li>Crypto</li>
+    <li>Blockchain</li>
+</ul>
 
+<br>
 <h3 align="left">Connect with me:</h3>
 <a href="https://discordapp.com/users/929700063595348009">
 <img width="43px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" alt="discord">
