@@ -52,6 +52,11 @@
     <img width="45px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg"
         alt="css">
 </a>
+&nbsp;
+<a href="https://www.w3schools.com/js/">
+    <img width="45px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/JavaScript.svg"
+     alt="JavaScript">
+</a>
 
 <h3 align="left">Tools:</h3>
 
