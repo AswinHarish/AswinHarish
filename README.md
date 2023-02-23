@@ -16,8 +16,8 @@
 <img width="43px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="linkedin">
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/aswin-harish-179b371a5/">
-<img width="43px" src="https://raw.githubusercontent.com/AswinHarish/AswinHarish.github.io/e7f8dd808680f23c6739442c5ffc904511db6c55/images/telegram.svg" alt="linkedin" style="border-radius: 15px;" >
+<a href="https://t.me/AswinHarish/">
+<img width="43px" src="https://raw.githubusercontent.com/AswinHarish/AswinHarish.github.io/e7f8dd808680f23c6739442c5ffc904511db6c55/images/telegram.svg" alt="telegram" style="border-radius: 45px;" >
 </a>
 
 
