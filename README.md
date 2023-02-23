@@ -2,6 +2,7 @@
 ###  Hi there, <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
 
  I'm Aswin, a passionate developer from India.
+ <br>
 
 <h3 align="left">Connect with me on:</h3>
 <a href="https://discordapp.com/users/929700063595348009">
@@ -21,17 +22,18 @@
 </a>
 
 
-
-
 <br>
 <br><br>
 
 
 <h3 align="left">Languages:</h3>
 
-[![My Skills](https://skills.thijs.gg/icons?i=python,c,cpp,java,js,html,css,bootstrap,&theme=light)]()
+[![My Skills](https://skills.thijs.gg/icons?i=python,c,cpp,java,js,html,css,&theme=light)]()
 <br>
 <br>
+
+
+<h3 align="left">Tools:</h3>
 
 
 
