@@ -13,7 +13,7 @@
 
 <h3 align="left">Languages:</h3>
 
-[![My Skills](https://skills.thijs.gg/icons?i=discord,kotlin,nodejs,figma&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=python,js,html,css&theme=dark)](https://skills.thijs.gg)
 <br>
 <br>
 
