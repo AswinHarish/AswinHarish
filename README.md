@@ -40,9 +40,13 @@
 &nbsp;
 <a href="https://code.visualstudio.com/">
     <img width="45px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg"
-        alt="linkedin">
+        alt="vs code">
 </a>
-
+&nbsp;
+<a href="https://www.linux.org/">
+    <img width="45px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg"
+        alt="linux">
+</a>
 
 <br>
 <br>
