@@ -71,7 +71,7 @@
 </a>
 &nbsp;
 <a href="https://www.oracle.com/cloud/">
-    <img width="45px" src="https://cdn.cdnlogo.com/logos/o/25/oracle.svg"
+    <img width="75px" src="https://cdn.cdnlogo.com/logos/o/25/oracle.svg"
      alt="oracle cloud">
 </a>
 
