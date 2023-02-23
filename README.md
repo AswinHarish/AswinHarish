@@ -18,6 +18,14 @@
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AswinHarish&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </a>
 
+
+
+
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/aswinharish"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aswinharish" /></a></p><br><br>
+
+<h3 align="left">Bitcoin:</h3> bc1qd6kxeh7030ghty26kc03fx2jhcy25ey4mxv6ae
 <br>
 <br>
 <p align="center"> 
@@ -26,10 +34,3 @@
     <img src="https://profile-counter.glitch.me/AswinHarish/count.svg" />
   </a>
 </p>
-
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/aswinharish"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aswinharish" /></a></p><br><br>
-
-<h3 align="left">Bitcoin:</h3> bc1qd6kxeh7030ghty26kc03fx2jhcy25ey4mxv6ae
-
