@@ -23,7 +23,7 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/aswinharish"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aswinharish" /></a> <h3 align="">Bitcoin:</h3> bc1qd6kxeh7030ghty26kc03fx2jhcy25ey4mxv6ae </p><br><br>
+<p><a href="https://www.buymeacoffee.com/aswinharish"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aswinharish" /></a> <h3 align="">Bitcoin: bc1qd6kxeh7030ghty26kc03fx2jhcy25ey4mxv6ae</h3>  </p><br><br>
 
 
 <br>
