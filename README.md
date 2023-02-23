@@ -4,7 +4,7 @@
  I'm Aswin, a passionate developer from India.
 
 <h3 align="left">Connect with me on:</h3>
-<img width="35px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" alt="">
+<img width="45px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" alt="">
 
 
 <br>
