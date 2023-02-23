@@ -17,7 +17,7 @@
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/aswin-harish-179b371a5/">
-<img width="43px" src="https://raw.githubusercontent.com/AswinHarish/Aswin-f/be1657b937b47e553124beb1e0221e2ae53863e8/telegram.svg?token=ANPBAAFRJFQTW5SUHK5TFUTD66XMW" alt="linkedin">
+<img width="43px" src="https://raw.githubusercontent.com/AswinHarish/Aswin-f/be1657b937b47e553124beb1e0221e2ae53863e8/telegram.svg?token=ANPBAAFRJFQTW5SUHK5TFUTD66XMW" alt="linkedin" style="border-radius: 11px;" >
 </a>
 
 
