@@ -70,17 +70,17 @@
 <h3 align="left">Tools:</h3>
 
 <a href="https://git-scm.com/">
-    <img width="45px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"
+    <img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"
         alt="git">
 </a>
 &nbsp;
 <a href="https://code.visualstudio.com/">
-    <img width="45px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg"
+    <img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg"
         alt="vs code">
 </a>
 &nbsp;
 <a href="https://www.linux.org/">
-    <img width="45px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg"
+    <img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg"
         alt="linux">
 </a>
 &nbsp;
