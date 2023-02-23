@@ -5,15 +5,15 @@
 
 <h3 align="left">Connect with me on:</h3>
 <a href="https://discordapp.com/users/929700063595348009">
-<img width="45px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" alt="discord">
+<img width="43px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" alt="discord">
 </a>
 &nbsp;
 <a href="https://twitter.com/aswinharish_">
-<img width="45px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" alt="twitter">
+<img width="43px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" alt="twitter">
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/aswin-harish-179b371a5/">
-<img width="45px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="linkedin">
+<img width="43px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="linkedin">
 </a>
 
 
