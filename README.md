@@ -6,7 +6,6 @@
 <h3 align="left">Interests</h3>
 <ul>
     <li>AI</li>
-    <li>Web3</li>
     <li>DeFi</li>
     <li>Web3</li>
     <li>Python</li>
