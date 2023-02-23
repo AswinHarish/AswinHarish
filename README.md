@@ -8,6 +8,7 @@
     <li>AI</li>
     <li>Web3</li>
     <li>DeFi</li>
+    <li>Web3</li>
     <li>Python</li>
     <li>Blockchain</li>
 </ul>
