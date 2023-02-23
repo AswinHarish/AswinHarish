@@ -29,7 +29,7 @@
 
 <h3 align="left">Languages:</h3>
 
-[![My Skills](https://skills.thijs.gg/icons?i=python,js,html,css&theme=dark)]()
+[![My Skills](https://skills.thijs.gg/icons?i=python,c,cpp,js,html,css&theme=dark)]()
 <br>
 <br>
 
