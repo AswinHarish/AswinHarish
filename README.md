@@ -70,9 +70,9 @@
         alt="linux">
 </a>
 &nbsp;
-<a href="https://www.w3schools.com/css/">
-    <img width="45px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYuJT_fLFTCA7Gi86WsKDU13RONZjWUhNnEw&usqp=CAU"
-        alt="css" style="border-radius: 10px;">
+<a href="https://www.oracle.com/cloud/">
+    <img width="45px" src="https://cdn.cdnlogo.com/logos/o/25/oracle.svg"
+     alt="oracle cloud">
 </a>
 
 <br>
