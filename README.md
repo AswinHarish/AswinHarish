@@ -28,8 +28,30 @@
 
 <h3 align="left">Languages:</h3>
 
-[![My Skills](https://skills.thijs.gg/icons?i=python,c,cpp,java,js,html,css,&theme=light)]()
-
+<a href="https://www.python.org/">
+    <img width="45px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg"
+        alt="python">
+</a>
+&nbsp;
+<a href="https://reactjs.org/">
+    <img width="45px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/React-Dark.svg"
+        alt="react">
+</a>
+&nbsp;
+<a href="https://devdocs.io/c/">
+    <img width="45px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg"
+        alt="c">
+</a>
+&nbsp;
+<a href="https://www.w3schools.com/html/">
+    <img width="45px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg"
+        alt="html">
+</a>
+&nbsp;
+<a href="https://www.w3schools.com/css/">
+    <img width="45px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg"
+        alt="css">
+</a>
 
 <h3 align="left">Tools:</h3>
 
