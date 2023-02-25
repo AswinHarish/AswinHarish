@@ -4,7 +4,6 @@
  I'm **Aswin**, a passionate developer from India.
  <br>
 
-Hello there I'm <span style="font-size:50px;">Aswin</span>
 
 ![](https://raw.githubusercontent.com/AswinHarish/AswinHarish/main/f.gif)
 
