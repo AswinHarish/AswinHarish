@@ -19,19 +19,19 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <a href="https://discordapp.com/users/929700063595348009">
-<img width="43px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" alt="discord">
+<img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" alt="discord">
 </a>
 &nbsp;
 <a href="https://twitter.com/aswinharish_">
-<img width="43px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" alt="twitter">
+<img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" alt="twitter">
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/aswin-harish-179b371a5/">
-<img width="43px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="linkedin">
+<img width="40px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="linkedin">
 </a>
 &nbsp;
 <a href="https://t.me/AswinHarish/">
-<img width="43px" src="https://raw.githubusercontent.com/AswinHarish/AswinHarish.github.io/e7f8dd808680f23c6739442c5ffc904511db6c55/images/telegram.svg" alt="telegram" style="border-radius: 45px;" >
+<img width="40px" src="https://raw.githubusercontent.com/AswinHarish/AswinHarish.github.io/e7f8dd808680f23c6739442c5ffc904511db6c55/images/telegram.svg" alt="telegram" style="border-radius: 45px;" >
 </a>
 
 
