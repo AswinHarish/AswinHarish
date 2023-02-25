@@ -3,6 +3,9 @@
 
  I'm **Aswin**, a passionate developer from India.
  <br>
+
+![](https://raw.githubusercontent.com/AswinHarish/AswinHarish/main/f.gif)
+
 <h3 align="left">Interests</h3>
 <ul>
     <li>AI</li>
