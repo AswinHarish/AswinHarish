@@ -42,7 +42,7 @@
 <h3 align="left">Languages:</h3>
 
 <a href="https://www.python.org/">
-    <img width="30px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg"
+    <img width="33px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg"
         alt="python">
 </a>
 &nbsp;
