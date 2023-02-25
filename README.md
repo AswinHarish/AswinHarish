@@ -67,23 +67,23 @@
 </a>
 &nbsp;
 <a href="https://www.w3schools.com/js/">
-    <img width="36px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/JavaScript.svg"
+    <img width="35px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/JavaScript.svg"
      alt="JavaScript">
 </a>
 
 <h3 align="left">Tools:</h3>
 <a href="https://code.visualstudio.com/">
-    <img width="36px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg"
+    <img width="35px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg"
         alt="vs code">
 </a>
 &nbsp;
 <a href="https://git-scm.com/">
-    <img width="36px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"
+    <img width="35px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"
         alt="git">
 </a>
 &nbsp;
 <a href="https://www.linux.org/">
-    <img width="36px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg"
+    <img width="35px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg"
         alt="linux">
 </a>
 &nbsp;
