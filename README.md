@@ -101,11 +101,7 @@
 
 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/aswinharish"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="aswinharish" /></a> </p><br><br>
-
-<h3>Bitcoin: </h3>bc1qd6kxeh7030ghty26kc03fx2jhcy25ey4mxv6ae
-<h3>USDT (TRC20): </h3>TAHEhA3fWc7L4XAsYSiVcWNaSTBpXtqoZ6
+<br>
 <br>
 <br>
 <p align="center"> 
