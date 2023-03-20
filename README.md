@@ -10,11 +10,11 @@
 
 <h3 align="left">Interests</h3>
 <ul>
+    <li>Python</li>
+    <li>Blockchain</li>
     <li>AI</li>
     <li>DeFi</li>
     <li>Web3</li>
-    <li>Python</li>
-    <li>Blockchain</li>
 </ul>
 
 <br>
