@@ -104,9 +104,3 @@
 <br>
 <br>
 <br>
-<p align="center"> 
-  Visitor count<br>
-  <a href="https://github.com/AswinHarish">
-    <img src="https://profile-counter.glitch.me/AswinHarish/count.svg" />
-  </a>
-</p>
