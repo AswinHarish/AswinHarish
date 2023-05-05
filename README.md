@@ -27,7 +27,7 @@
 <img width="39px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" alt="twitter">
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/aswin-harish-179b371a5/">
+<a href="https://www.linkedin.com/in/aswinharish">
 <img width="39px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="linkedin">
 </a>
 &nbsp;
