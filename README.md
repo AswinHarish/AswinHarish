@@ -41,7 +41,6 @@
 
 
 <h3 align="left">Languages:</h3>
-
 <a href="https://www.python.org/">
     <img width="34px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg"
         alt="python">
