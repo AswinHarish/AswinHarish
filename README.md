@@ -96,7 +96,7 @@
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=AswinHarish&hide_border=true&hide_title=true&show_icons=true&theme=tokyonight"/>  
 </a>
 <a href="https://github.com/AswinHarish/">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AswinHarish&hide_border=true&hide_title=true&layout=compact&langs_count=6&icon_color=fff&theme=tokyonight" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswin_Harish&hide_border=true&hide_title=true&layout=compact&langs_count=6&icon_color=fff&theme=tokyonight" />
 </a>
 
 
