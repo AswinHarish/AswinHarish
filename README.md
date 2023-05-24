@@ -6,8 +6,9 @@
 
 
 
-![](https://raw.githubusercontent.com/AswinHarish/AswinHarish/main/f.gif)
 <!---
+
+![](https://raw.githubusercontent.com/AswinHarish/AswinHarish/main/f.gif)
 <h3 align="left">Interests</h3>
 <ul>
     <li>Python</li>
