@@ -7,7 +7,7 @@
 
 
 ![](https://raw.githubusercontent.com/AswinHarish/AswinHarish/main/f.gif)
-
+<!---
 <h3 align="left">Interests</h3>
 <ul>
     <li>Python</li>
@@ -16,23 +16,23 @@
     <li>DeFi</li>
     <li>Web3</li>
 </ul>
-
+--->
 <br>
 <h3 align="left">Connect with me:</h3>
 <a href="https://discordapp.com/users/929700063595348009">
-<img width="39px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" alt="discord">
+<img width="35px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" alt="discord">
 </a>
 &nbsp;
 <a href="https://twitter.com/aswinharish_">
-<img width="39px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" alt="twitter">
+<img width="35px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" alt="twitter">
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/aswinharish">
-<img width="39px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="linkedin">
+<img width="35px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="linkedin">
 </a>
 &nbsp;
 <a href="https://t.me/AswinHarish/">
-<img width="39px" src="https://raw.githubusercontent.com/AswinHarish/AswinHarish.github.io/e7f8dd808680f23c6739442c5ffc904511db6c55/images/telegram.svg" alt="telegram" style="border-radius: 45px;" >
+<img width="35px" src="https://raw.githubusercontent.com/AswinHarish/AswinHarish.github.io/e7f8dd808680f23c6739442c5ffc904511db6c55/images/telegram.svg" alt="telegram" style="border-radius: 45px;" >
 </a>
 
 
@@ -95,11 +95,12 @@
 <br>
 <br>
 <a href="https://github.com/AswinHarish/">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=AswinHarish&hide_title=true&show_icons=true&theme=dark"/>  
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=AswinHarish&hide_border=true&hide_title=true&show_icons=true&theme=tokyonight"/>  
 </a>
 <a href="https://github.com/AswinHarish/">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AswinHarish&hide_title=true&layout=compact&langs_count=6&icon_color=fff&theme=dark" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AswinHarish&hide_border=true&hide_title=true&layout=compact&langs_count=6&icon_color=fff&theme=tokyonight" />
 </a>
+
 
 
 
