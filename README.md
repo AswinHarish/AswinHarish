@@ -97,10 +97,9 @@
 </a>
 
 <a href="https://github.com/AswinHarish/">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AswinHarish&hide_border=true&hide_title=true&layout=compact&langs_count4=&icon_color=fff&theme=tokyonight" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AswinHarish&hide_border=true&hide_title=true&layout=compact&langs_count=4&icon_color=fff&theme=tokyonight" />
 </a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AswinHarish&hide_border=true&hide_title=true&layout=compact)
 <br>
 <br>
 <br>
