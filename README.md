@@ -100,7 +100,7 @@
   <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AswinHarish&hide_border=true&hide_title=true&layout=compact&langs_count4=&icon_color=fff&theme=tokyonight" />
 </a>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 <br>
