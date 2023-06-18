@@ -19,15 +19,15 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <a href="https://discordapp.com/users/929700063595348009">
-<img width="34px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" alt="discord">
+<img width="34px" src="https://aswinharish.in/icons/Discord.svg" alt="discord">
 </a>
 &nbsp;
 <a href="https://twitter.com/aswinharish_">
-<img width="34px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" alt="twitter">
+<img width="34px" src="https://aswinharish.in/icons/Twitter.svg" alt="twitter">
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/aswinharish">
-<img width="34px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="linkedin">
+<img width="34px" src="https://aswinharish.in/icons/LinkedIn.svg" alt="linkedin">
 </a>
 &nbsp;
 <a href="https://t.me/AswinHarish/">
@@ -41,7 +41,7 @@
 
 <h3 align="left">Languages:</h3>
 <a href="https://www.python.org/">
-    <img width="34px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg"
+    <img width="34px" src="https://aswinharish.in/icons/Python-Dark.svg"
         alt="python">
 </a>
 <!---
@@ -53,38 +53,38 @@
 --->
 &nbsp;
 <a href="https://devdocs.io/c/">
-    <img width="34px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg"
+    <img width="34px" src="https://aswinharish.in/icons/C.svg"
         alt="c">
 </a>
 &nbsp;
 <a href="https://www.w3schools.com/html/">
-    <img width="34px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg"
+    <img width="34px" src="https://aswinharish.in/icons/HTML.svg"
         alt="html">
 </a>
 &nbsp;
 <a href="https://www.w3schools.com/css/">
-    <img width="34px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg"
+    <img width="34px" src="https://aswinharish.in/icons/CSS.svg"
         alt="css">
 </a>
 &nbsp;
 <a href="https://www.w3schools.com/js/">
-    <img width="34px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/JavaScript.svg"
+    <img width="34px" src="https://aswinharish.in/icons/JavaScript.svg"
      alt="JavaScript">
 </a>
 
 <h3 align="left">Tools:</h3>
 <a href="https://code.visualstudio.com/">
-    <img width="34px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg"
+    <img width="34px" src="https://aswinharish.in/icons/VSCode-Dark.svg"
         alt="vs code">
 </a>
 &nbsp;
 <a href="https://git-scm.com/">
-    <img width="34px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"
+    <img width="34px" src="https://aswinharish.in/icons/Git.svg"
         alt="git">
 </a>
 &nbsp;
 <a href="https://www.linux.org/">
-    <img width="34px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg"
+    <img width="34px" src="https://aswinharish.in/icons/Linux-Dark.svg"
         alt="linux">
 </a>
 &nbsp;
