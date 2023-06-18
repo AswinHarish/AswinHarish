@@ -31,7 +31,7 @@
 </a>
 &nbsp;
 <a href="https://t.me/AswinHarish/">
-<img width="34px" src="https://aswinharish.in/icons/Telegram.svg" alt="telegram" style="border-radius: 0px;" >
+<img width="34px" src="https://aswinharish.in/icons/Telegram.svg" alt="telegram" style="border-radius: 50px;" >
 </a>
 
 
