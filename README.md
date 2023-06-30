@@ -78,6 +78,11 @@
         alt="vs code">
 </a>
 &nbsp;
+<a href="https://www.jetbrains.com/pycharm/">
+    <img width="34px" src="https://aswinharish.in/icons/pycharm-icon.svg"
+        alt="Pycharm">
+</a>
+&nbsp;
 <a href="https://git-scm.com/">
     <img width="34px" src="https://aswinharish.in/icons/Git.svg"
         alt="git">
