@@ -39,7 +39,7 @@
 <br>
 
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <a href="https://www.python.org/">
     <img width="34px" src="https://aswinharish.in/icons/Python-Dark.svg"
         alt="python">
@@ -71,8 +71,7 @@
     <img width="34px" src="https://aswinharish.in/icons/JavaScript.svg"
      alt="JavaScript">
 </a>
-
-<h3 align="left">Tools:</h3>
+&nbsp;
 <a href="https://code.visualstudio.com/">
     <img width="34px" src="https://aswinharish.in/icons/VSCode-Dark.svg"
         alt="vs code">
