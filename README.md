@@ -72,6 +72,11 @@
      alt="JavaScript">
 </a>
 &nbsp;
+<a href="https://flask.palletsprojects.com/en/2.3.x/">
+    <img width="34px" src="https://aswinharish.in/icons/Flask-Dark.svg"
+        alt="flask">
+</a>
+&nbsp;
 <a href="https://code.visualstudio.com/">
     <img width="34px" src="https://aswinharish.in/icons/VSCode-Dark.svg"
         alt="vs code">
