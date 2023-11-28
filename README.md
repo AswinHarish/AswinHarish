@@ -18,19 +18,19 @@
 --->
 <br>
 <h3 align="left">Connect with me:</h3>
-<a href="https://discordapp.com/users/929700063595348009">
+<a href="https://discordapp.com/users/929700063595348009" target="_blank">
 <img width="34px" src="https://aswinharish.in/icons/Discord.svg" alt="discord">
 </a>
 &nbsp;
-<a href="https://twitter.com/aswinharish_">
+<a href="https://twitter.com/aswinharish_" target="_blank">
 <img width="34px" src="https://aswinharish.in/icons/Twitter.svg" alt="twitter">
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/aswinharish">
+<a href="https://www.linkedin.com/in/aswinharish" target="_blank">
 <img width="34px" src="https://aswinharish.in/icons/LinkedIn.svg" alt="linkedin">
 </a>
 &nbsp;
-<a href="https://t.me/AswinHarish/">
+<a href="https://t.me/AswinHarish/" target="_blank">
 <img width="34px" src="https://aswinharish.in/icons/Telegram.svg" alt="telegram" style="border-radius: 50px;" >
 </a>
 
@@ -55,6 +55,11 @@
 <a href="https://devdocs.io/c/">
     <img width="34px" src="https://aswinharish.in/icons/C.svg"
         alt="c">
+</a>
+&nbsp;
+<a href="https://www.java.com/">
+    <img width="34px" src="https://aswinharish.in/icons/Java-Dark.svg"
+        alt="Java">
 </a>
 &nbsp;
 <a href="https://www.w3schools.com/html/">
