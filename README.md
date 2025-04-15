@@ -1,4 +1,4 @@
-
+<!---
 ###  Hello World! <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">
 
  I'm **Aswin**, a passionate developer from India.
@@ -15,7 +15,7 @@
     <li>DeFi</li>
     <li>Web3</li>
 </ul>
---->
+
 <br>
 <h3 align="left">Connect with me:</h3>
 <a href="https://discordapp.com/users/929700063595348009" target="_blank">
@@ -50,7 +50,7 @@
     <img width="34px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/React-Dark.svg"
         alt="react">
 </a>
---->
+
 &nbsp;
 <a href="https://devdocs.io/c/">
     <img width="34px" src="https://aswinharish.in/icons/C.svg"
@@ -117,3 +117,4 @@
 <br>
 <br>
 <br>
+--->
